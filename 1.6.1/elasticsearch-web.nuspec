@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>elasticsearch-web</id>
     <title>elasticsearch (Install)</title>
-    <version>1.7.1</version>
+    <version>1.6.1</version>
     <authors>https://github.com/elasticsearch/elasticsearch/contributors</authors>
     <owners>Paul Kling</owners>
     <summary>A distributed RESTful search engine built for the cloud.</summary>
