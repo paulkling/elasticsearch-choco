@@ -13,7 +13,7 @@
 To install ElasticSearch, run the following command from the command line or from PowerShell:
     </description>
     <projectUrl>https://github.com/elasticsearch/elasticsearch/</projectUrl>
-    <packageSourceUrl>https://github.com/elasticsearch/elasticsearch/</packageSourceUrl>
+    <packageSourceUrl>https://github.com/paulkling/elasticsearch-choco</packageSourceUrl>
     <tags>elasticsearch search REST</tags>
     <copyright></copyright>
     <licenseUrl>https://github.com/elastic/elasticsearch/blob/v1.4.1/LICENSE.txt</licenseUrl>
