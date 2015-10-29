@@ -11,7 +11,7 @@ choco install elasticsearch-web -fdv -s "%cd%"
 
 
 
-to push to choco
+# to push to choco 
 
 choco push elasticsearch-web.1.6.1.nupkg -s https://chocolatey.org --api-key 144c8b0
 
